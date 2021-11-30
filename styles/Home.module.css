@@ -119,3 +119,17 @@
     flex-direction: column;
   }
 }
+
+.loadMoreBtn {
+  display: inline-block;
+  padding: 12px 12px 12px 16px;
+  margin-bottom: 30px;
+  background: #ed1a33;
+  font-size: 16px;
+  color: #fff !important;
+  border: none;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: center;
+}
+
